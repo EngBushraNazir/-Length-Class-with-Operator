@@ -1,4 +1,4 @@
-# -Length-Class-with-Operator
+# Length-Class-with-Operator
 Create a class `Length` with:
 
 - `feet` (int)  
